@@ -1,0 +1,5 @@
+running applikasi
+uvicorn main:app --reload
+
+install mysql
+pip install pymysql
